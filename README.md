@@ -1,6 +1,8 @@
 # Ela's Beauty Room
 http://www.elasbeautyroom.co.uk/
 <br />
+<br />
+## Information
 This is a website created for a co-worker of mine, Ela. She needed a new website to promote her beauty business.
 <br />
 I decided to create this for my final college project, however, the website was made using a HTML template which can be found at https://html5up.net/arcana.
